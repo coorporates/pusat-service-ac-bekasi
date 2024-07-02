@@ -120,6 +120,22 @@
     margin-top: 15px;
     margin-left: 0;
   }
+
+  .container-fluid .navbar a {
+    font-size: 18px;
+  }
+
+  .carousel-item .container .detail-box h1 {
+    font-size: 28px;
+  }
+
+  .info_container .container .info_logo a {
+    font-size: 23px;
+  }
+
+  .footer_section .container p {
+    font-size: 13px;
+  }
 }
 
 @media (max-width: 480px) {
